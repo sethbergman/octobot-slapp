@@ -1,5 +1,5 @@
 {
-  "name": "slapp",
+  "name": "octobot-slapp",
   "version": "2.2.1",
   "description": "A module for Slack App integrations",
   "main": "src/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BeepBoopHQ/slapp.git"
+    "url": "git+https://github.com/sethbergman/octobot-slapp.git"
   },
   "keywords": [
     "slack",
@@ -24,9 +24,9 @@
   "author": "Mike Brevoort",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BeepBoopHQ/slapp/issues"
+    "url": "https://github.com/sethbergman/octobot-slapp/issues"
   },
-  "homepage": "https://github.com/BeepBoopHQ/slapp#readme",
+  "homepage": "https://github.com/sethbergman/octobot-slapp#readme",
   "engines": {
     "node": ">=6.0.0"
   },

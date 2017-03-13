@@ -1,0 +1,9 @@
+name: lucy
+description: ☝️☝️ Check out the README ☝️☝️ in the repo for setup instructions. By the way, this is just the description in the bot.yml file - feel free to change it 😉
+avatar: .lucy/lucy.png
+
+slackscopes:
+  - bot
+  - commands
+  - reactions:write
+  - incoming-webhook
